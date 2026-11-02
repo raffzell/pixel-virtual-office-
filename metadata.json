@@ -1,0 +1,6 @@
+{
+  "name": "Hermes 2D RPG Virtual Office",
+  "description": "Japanese Chibi Pixel-Art Virtual Office AI Agent Simulator with autonomous AI agents, JRPG dialogue system, meeting room collaboration, and interactive office management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
